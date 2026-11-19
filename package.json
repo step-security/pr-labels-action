@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/step-security/pr-labels-action#readme",
   "dependencies": {
-    "@actions/core": "^2.0.3",
+    "@actions/core": "^3.0.1",
     "@actions/github": "^8.0.1",
     "axios": "^1.21.1"
   },
